@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+.article-title{
+	margin-bottom: 25px;
+	font-size:26px;	
+}
+.content-meta span{
+	margin-right: 15px;
+}
+.span5 p{
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.span5 ul{
+	margin-left: 40px;
+	margin-top:-10px;
+}
+.span5 ul li{
+	margin-bottom: 5px;
+}
+#content{
+	margin:20px 0;
+}
+
+#content img{
+	margin-bottom: 10px;
+}
+
+#sidebar-right{
+	margin-top: 30px;
+}
+#sidebar-right h3{
+	font-size: 22px;
+}
+#sidebar-right section{
+	margin-bottom: 20px;
+}
+
+#sidebar-right section p{
+	margin-left:10px;
+}
+@charset "utf-8";
+
+.article-title{
+	margin-bottom: 25px;
+	font-size:26px;	
+}
+.content-meta span{
+	margin-right: 15px;
+}
+.span5 p{
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.span5 ul{
+	margin-left: 40px;
+	margin-top:-10px;
+}
+.span5 ul li{
+	margin-bottom: 5px;
+}
+#content{
+	margin:20px 0;
+}
+
+#content img{
+	margin-bottom: 10px;
+}
+
+#sidebar-right{
+	margin-top: 30px;
+}
+#sidebar-right h3{
+	font-size: 22px;
+}
+#sidebar-right section{
+	margin-bottom: 20px;
+}
+
+#sidebar-right section p{
+	margin-left:10px;
+}

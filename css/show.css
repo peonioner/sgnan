@@ -1,0 +1,29 @@
+@charset "utf-8";
+.span9 h3{
+	font-size: 24px;
+	color:gray;
+}
+.span9 section{
+	margin:20px 0;
+}
+
+.span9 section h4{
+	font-size: 16px;
+}
+.span3{
+	margin-top: 20px;
+}
+.span3 h3{
+	font-size: 24px;
+	color:gray;
+}
+.span3 section{
+	margin-left: 20px;
+}
+.span3 section p{
+	color: gray;
+	margin-bottom:8px;
+}
+.designer{
+	text-align: right;
+}

@@ -1,0 +1,32 @@
+@charser "utf-8";
+/**
+ *主题内容的样式
+ */
+.content-box{
+    border:1px solid #d7d7d7;
+    border-top:none;
+    padding:10px;
+    margin-bottom: 20px;
+}
+.content-box h1{
+    font-size:15px;
+    line-height:30px;
+    margin-top: 0;
+}
+
+.content-meta span,.content-meta time{
+    margin-right: 10px;
+    color:#828282;
+}
+
+.content-meta img{
+    width:32px;
+}
+#main-content{
+    margin:20px 0;
+}
+/*解决图片大小不一带来的布局错误问题*/
+.media-box{
+    height:260px;
+    overflow: hidden;
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/**
+ * 字体设置
+ */
+.carousel-caption-desc{
+    font-size: 12px;
+}
+
+/**
+ * 列表图部分的设置
+ */
+#list-image{
+   margin-bottom: 20px; 
+}
+#list-image h2{
+    font-size: 24px;
+    color:#3CCC23;
+}
+#list-image .span3{
+    padding:15px 0;
+    
+}
